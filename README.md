@@ -1,1 +1,1 @@
-# Python-ML-ICP7
+In this ICP we were asked to change the classifier in a given sourcecode to SVM, then set tfidf vectorizer to use bigram, and finally to set tfidf vectorizer parameter to use stop_words. Additionally, we were asked to sk=crape a wikipedia page, take the content and store it in a file. Then using the scraped data, we were asked to apply tokenization, POS, stemming, lemmatization, trigram, and named antity recognition. 
